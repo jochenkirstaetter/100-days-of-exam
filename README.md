@@ -1,4 +1,4 @@
-# Join the [#100DaysOfExam](https://twitter.com/hashtag/100daysofexam) challenge.
+# Join the [#100DaysOfExam](https://www.100daysofexam.com/) challenge.
 
 ## Contents
 * [Rules](rules.md)
@@ -13,7 +13,7 @@ Learning in a daily process. No matter what we learn constantly and extend our k
 This project is all about learning, more precisely the journey to prepare yourself to pass an exam, no matter the nature of the topic. You commit yourself to this 100-day challenge by focusing on a specific topic, by deep diving into it and by preparing yourself to take an exam at the end of term.
 
 ## If you've decided to join:
-1. Check out [the Official Site](https://www.100daysofexam.com/) for the #100DaysOfExam movement.
+1. Check out [the Official Site](https://www.100daysofexam.com/) for the [#100DaysOfExam](https://twitter.com/hashtag/100daysofexam) movement.
 1. Read more about [the #100DaysOfExam challenge here](https://www.100daysofexam.com/)
 1. Fork this repo and commit to the [Log](log.md) daily.
 1. **Learn and prepare for an exam for minimum an hour every day for the next 100 days.**

@@ -1,4 +1,4 @@
-# FAQ #100DaysOfExam
+# FAQ of [#100DaysOfExam](https://www.100daysofexam.com/)
 
 Questions and answers will be added from time to time.
 

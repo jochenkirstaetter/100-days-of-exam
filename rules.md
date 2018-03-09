@@ -1,4 +1,4 @@
-# Rules of #100DaysOfExam Challenge
+# Rules of [#100DaysOfExam](https://www.100daysofexam.com/) Challenge
 
 ## Main Commitment a.k.a. Rule #1
 ### *I will learn and prepare for an exam for at least an hour every day for the next 100 days.*
