@@ -2,23 +2,23 @@
 
 [The #100DaysOfExam Official Site](https://www.100daysofexam.com/)
 
-## Articles
+### Articles
 
-## Podcasts
+### Podcasts
 
-# Additional Resources on the #100DaysOfExam
+## Additional Resources on the #100DaysOfExam
 
-## Helpful Articles
+### Helpful Articles
 
-## Books
+### Books
 
-## Videos
+### Videos
 
-## Projects and Ideas
+### Projects and Ideas
 
-## Other resources
+### Other resources
 
-# Exam specific resources
+## Exam specific resources
 Any preparation material that it is related to a specific exam it should be added or made available under the `resources` folder. There is a growing, vendor-specific hierarchy in place.
 
 ## Contents
