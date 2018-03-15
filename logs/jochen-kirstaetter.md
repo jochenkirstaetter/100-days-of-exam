@@ -1,5 +1,20 @@
 # Log #100DaysOfExam - MCSA: Linux on Azure
 
+## Day 3: 2018-03-16
+
+### Today's Progress
+Completed the course module `Working at the Command Line` and learned more details about files, directories and links on Linux.
+
+### Thoughts & Tweet
+Although I'm already familiar with basic file and directory handling using commands like `ls`, `mkdir`, `rm`, `mv` and `cp` it was interesting to see some of the available switches. A few of them I already knew but there some new gems among the lectures.
+Got some insights about the underlying meta-data and inode information, too.
+
+https://twitter.com/JKirstaetter/status/974396318297673730
+
+### Resources
+[LFCS: Linux Essentials](https://app.pluralsight.com/library/courses/lfcs-red-hat-7-essentials)
+
+---- 
 ## Day 2: 2018-03-15
 
 ### Today's Progress
