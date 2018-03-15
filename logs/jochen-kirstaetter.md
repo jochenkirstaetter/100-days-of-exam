@@ -1,5 +1,20 @@
 # Log #100DaysOfExam - MCSA: Linux on Azure
 
+## Day 2: 2018-03-15
+
+### Today's Progress
+Managed to complete the installation and configuration of CentOS 7 virtual machine on a spare system. 
+
+### Thoughts & Tweet
+Additionally to my statement about using a CentOS 7 VM on Azure I installed another virtual machine locally. Don't know but it seems more 'connected' than just having the remote access on a cloud platform. Have to see how this works out in the upcoming days.
+
+https://twitter.com/JKirstaetter/status/974152967539453953
+
+### Resources
+[LFCS: Linux Essentials](https://app.pluralsight.com/library/courses/lfcs-red-hat-7-essentials)
+[Oracle VirtualBox](https://www.virtualbox.org/)
+
+---- 
 ## Day 1: 2018-03-14
 ### Today's Progress
 I decided to get into the Linux track first. The first course modules are about the purpose of the course, the Linux Foundation, about CentOS and why to use it to prepare for the LFCS.
