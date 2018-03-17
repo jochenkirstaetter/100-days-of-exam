@@ -1,7 +1,19 @@
 # Log #100DaysOfExam - MCSA: Linux on Azure
 
-## Day 3: 2018-03-16
+## Day 4: 2018-03-17
+### Today's Progress
+Learned about 'Reading files' and did a few experiments on the command line
 
+### Thoughts & Tweet
+It's interesting to realise there are usually more than one solution to a problem under Linux. Reading files is possible with `cat`, `less`, `head`, `tail`. Searching in files with `grep` seems quite practical using regular expressions.
+
+https://twitter.com/JKirstaetter/status/974882295734816768
+
+### Resources
+[LFCS: Linux Essentials](https://app.pluralsight.com/library/courses/lfcs-red-hat-7-essentials)
+
+---- 
+## Day 3: 2018-03-16
 ### Today's Progress
 Completed the course module `Working at the Command Line` and learned more details about files, directories and links on Linux.
 
@@ -16,7 +28,6 @@ https://twitter.com/JKirstaetter/status/974396318297673730
 
 ---- 
 ## Day 2: 2018-03-15
-
 ### Today's Progress
 Managed to complete the installation and configuration of CentOS 7 virtual machine on a spare system. 
 
