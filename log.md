@@ -1,4 +1,4 @@
-# Log #100DaysOfExam - [Your exam goal]
+# Log [#100DaysOfExam](https://www.100daysofexam.com/) - [Your exam goal]
 
 The recommended way to log your progress is to place your latest entries at the top. 
 
