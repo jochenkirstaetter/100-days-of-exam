@@ -5,7 +5,7 @@
 Learned about 'Reading files' and did a few experiments on the command line
 
 ### Thoughts & Tweet
-It's interesting to realise there are usually more than one solution to a problem under Linux. Reading files is possible with `cat`, `less`, `head`, `tail`. Searching in files with `grep` seems quite practical using regular expressions.
+It's interesting to realise there are usually more than one solution to a problem under Linux. Reading files is possible with `cat`, `less`, `head`, or `tail`. Searching in files with `grep` seems quite practical using regular expressions.
 
 https://twitter.com/JKirstaetter/status/974882295734816768
 
