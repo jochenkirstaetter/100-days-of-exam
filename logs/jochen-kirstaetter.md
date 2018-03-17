@@ -1,4 +1,4 @@
-# Log #100DaysOfExam - MCSA: Linux on Azure
+# Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
 ## Day 4: 2018-03-17
 ### Today's Progress
