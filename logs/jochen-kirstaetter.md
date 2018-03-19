@@ -1,5 +1,19 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 6: 2018-03-19
+### Today's Progress
+Going through the suggested lessons of vimtutor. Took me longer than expected; that constant mode switching isn't obvious.
+
+### Thoughts & Tweet
+Whew, I went through the `vimtutor` lessons using #Ubuntu on WSL. Clearly, that constant switching between Normal & Insert mode is nothing for me. Surely something to practice more regularly in order to get a grip on it. Interesting for sure but unusual compared to my given experience.
+
+https://twitter.com/JKirstaetter/status/975658988103548929
+
+### Resources
+[LFCS: Linux Essentials](https://app.pluralsight.com/library/courses/lfcs-red-hat-7-essentials)
+[Microsoft Cloud Society](https://cloudsociety.microsoft.com/)
+
+---- 
 ## Day 5: 2018-03-18
 ### Today's Progress
 Usually I'm using the nano text editor learning about Vi and Vi Improved (vim) was quite interesting.
