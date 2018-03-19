@@ -1,5 +1,18 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 5: 2018-03-18
+### Today's Progress
+Usually I'm using the nano text editor learning about Vi and Vi Improved (vim) was quite interesting.
+
+### Thoughts & Tweet
+Although it's possible to work with `nano` during the exam, it seems recommended to get more familiar with `vim`. Guess it's time for a dedicated session to go through the `vimtutor` instruction these days. Shall be fun!
+
+https://twitter.com/JKirstaetter/status/975289038113447936
+
+### Resources
+[LFCS: Linux Essentials](https://app.pluralsight.com/library/courses/lfcs-red-hat-7-essentials)
+
+---- 
 ## Day 4: 2018-03-17
 ### Today's Progress
 Learned about 'Reading files' and did a few experiments on the command line
