@@ -5,7 +5,7 @@
 Going through the suggested lessons of vimtutor. Took me longer than expected; that constant mode switching isn't obvious.
 
 ### Thoughts & Tweet
-Whew, I went through the `vimtutor` lessons using #Ubuntu on WSL. Clearly, that constant switching between Normal & Insert mode is nothing for me. Surely something to practice more regularly in order to get a grip on it. Interesting for sure but unusual compared to my given experience.
+Whew, I went through the `vimtutor` lessons using #Ubuntu on WSL. Clearly, that constant switching between Normal & Insert mode is not for me. Surely something to practice more regularly in order to get a grip on it. Interesting for sure but unusual compared to my given experience.
 
 https://twitter.com/JKirstaetter/status/975658988103548929
 
