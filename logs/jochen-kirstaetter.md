@@ -1,5 +1,18 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 7: 2018-03-20
+### Today's Progress
+Still continuing on the Linux Essentials course modules. Today was a double-feature: `Piping and Redirection` together with `Archiving Files`.
+
+### Thoughts & Tweet
+Really practical to see how the anomynous pipes are actually working, and getting more familiar with `STDOUT`, `STDERR` and `STDIN` was kind of fun. Although, it's a little bit intimidating to work with named pipes. The chapter on archiving was mainly a refresher as I'm used to `tar`, `gzip` and `bzip`. Neat trick to use `dd` to wipe a partition or even an entire harddrive.
+
+https://twitter.com/JKirstaetter/status/976140756720148481
+
+### Resources
+[LFCS: Linux Essentials](https://app.pluralsight.com/library/courses/lfcs-red-hat-7-essentials)
+
+---- 
 ## Day 6: 2018-03-19
 ### Today's Progress
 Going through the suggested lessons of vimtutor. Took me longer than expected; that constant mode switching isn't obvious.
