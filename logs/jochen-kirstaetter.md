@@ -1,5 +1,18 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 8: 2018-03-21
+### Today's Progress
+Explored the various help systems on Linux, and got myself into file and directory permissions.
+
+### Thoughts & Tweet
+Managing those octets is essentials in a multi-user environment but not so on a single-user machine. Also `su` and `sudo` are quite handy as Linux version of `runAs`.
+
+https://twitter.com/JKirstaetter/status/976292923510734853
+
+### Resources
+[LFCS: Linux Essentials](https://app.pluralsight.com/library/courses/lfcs-red-hat-7-essentials)
+
+---- 
 ## Day 7: 2018-03-20
 ### Today's Progress
 Still continuing on the Linux Essentials course modules. Today was a double-feature: `Piping and Redirection` together with `Archiving Files`.
