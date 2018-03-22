@@ -8,9 +8,9 @@ This certificate is a combination of the two following exam:
 which can be passed in any order.
 
 ## Online courses and learning paths
-[Pluralsight: MCSA: Linux on Azure](https://app.pluralsight.com/paths/skills/mcsa-linux-on-azure)
-[Lynda: Prepare for MCSA: Linux on Azure](https://www.lynda.com/learning-paths/IT/prepare-for-mcsa-linux-on-azure)
-[Azure Master (in German)](https://www.microsoft.com/de-de/aktion/azure-master/MCP-70-533.aspx)
+- [Pluralsight: MCSA: Linux on Azure](https://app.pluralsight.com/paths/skills/mcsa-linux-on-azure) 
+- [Lynda: Prepare for MCSA: Linux on Azure](https://www.lynda.com/learning-paths/IT/prepare-for-mcsa-linux-on-azure) 
+- [Azure Master (in German)](https://www.microsoft.com/de-de/aktion/azure-master/MCP-70-533.aspx) 
 
 ## Other resources
-[Microsoft Cloud Society](https://cloudsociety.microsoft.com/)
+- [Microsoft Cloud Society](https://cloudsociety.microsoft.com/)
