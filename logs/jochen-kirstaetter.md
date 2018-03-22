@@ -1,5 +1,21 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 9: 2018-03-22
+### Today's Progress
+Covered the basic configuration and use of `ssh`, and embarked on a Linux Journey to [Learn the ways of Linux-fu](https://linuxjourney.com/).
+
+### Thoughts & Tweet
+Accessing another Linux machine remotely in a secure fashion is made so easy by using the SSH protocol. And by configuring public key authentication it gets even easier on the client machine to log into a remote system. Very neat and handy indeed.
+Additionally, I came across a nicely made website to learn and improve your *Linux-fu*. From first looks and excersises it appears to be a helpful compagnion to prepare for the LFCS. 
+
+https://twitter.com/JKirstaetter/status/976652113995489280 
+
+### Resources
+[LFCS: Linux Essentials](https://app.pluralsight.com/library/courses/lfcs-red-hat-7-essentials)  
+[Linux Journey](https://linuxjourney.com/)  
+[GitHub: Linux Journey](https://github.com/cindyq/linuxjourney) 
+
+---- 
 ## Day 8: 2018-03-21
 ### Today's Progress
 Explored the various help systems on Linux, and got myself into file and directory permissions.
@@ -36,7 +52,7 @@ Whew, I went through the `vimtutor` lessons using #Ubuntu on WSL. Clearly, that 
 https://twitter.com/JKirstaetter/status/975658988103548929
 
 ### Resources
-[LFCS: Linux Essentials](https://app.pluralsight.com/library/courses/lfcs-red-hat-7-essentials)
+[LFCS: Linux Essentials](https://app.pluralsight.com/library/courses/lfcs-red-hat-7-essentials)  
 [Microsoft Cloud Society](https://cloudsociety.microsoft.com/)
 
 ---- 
@@ -90,7 +106,7 @@ Additionally to my statement about using a CentOS 7 VM on Azure I installed anot
 https://twitter.com/JKirstaetter/status/974152967539453953
 
 ### Resources
-[LFCS: Linux Essentials](https://app.pluralsight.com/library/courses/lfcs-red-hat-7-essentials)
+[LFCS: Linux Essentials](https://app.pluralsight.com/library/courses/lfcs-red-hat-7-essentials)  
 [Oracle VirtualBox](https://www.virtualbox.org/)
 
 ---- 
