@@ -1,5 +1,19 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 10: 2018-03-23
+### Today's Progress
+Milestone achieved: Completed 1st module of LFCS learning path covering Linux essentials. And directly into the operation essentials for more fun.
+
+### Thoughts & Tweet
+Interestingly and somehow relieving, this first course of LFCS certification had only a few bits and pieces unknown to me. Over the years I've used the majority of commands discussed. Just the chapters on `vim`, named pipes and some goodies using `ssh` were really new. Now, I'm looking forward to explore more commands for daily use on Linux.
+
+https://twitter.com/JKirstaetter/status/977037472340180992 
+
+### Resources
+[LFCS: Linux Essentials](https://app.pluralsight.com/library/courses/lfcs-red-hat-7-essentials)  
+[LFCS: Linux Operation Essentials](https://www.pluralsight.com/courses/lfcs-linux-operation-essentials)  
+
+---- 
 ## Day 9: 2018-03-22
 ### Today's Progress
 Covered the basic configuration and use of `ssh`, and embarked on a Linux Journey to [Learn the ways of Linux-fu](https://linuxjourney.com/).
