@@ -1,5 +1,18 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 11: 2018-03-24
+### Today's Progress
+Digging a bit deeper into the nuts & bolts of the shutdown and boot processes of Linux. Starting with `shutdown` to understand the different `runlevel` and their implications, and then to explore `grub2` and related tools to configure the boot process.
+
+### Thoughts & Tweet
+Kind of funny approach to *begin with the end*... After going through the modules I'm now more confident about how to handle a boot problem on a Linux system. The info about the `grub2` configuration options is very helpful, and working with the rescue system surely is going to be part of the exam questionnaire. Not sure what to think about `grubby` - its use seems less practical on the command line due to all kind of switches compared to editing the `grub.cfg` directly. Might give it a shot though...
+
+https://twitter.com/JKirstaetter/status/977457073528061952 
+
+### Resources
+[LFCS: Linux Operation Essentials](https://www.pluralsight.com/courses/lfcs-linux-operation-essentials)  
+
+---- 
 ## Day 10: 2018-03-23
 ### Today's Progress
 Milestone achieved: Completed 1st module of LFCS learning path covering Linux essentials. And directly into the operation essentials for more fun.
