@@ -1,5 +1,18 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 12: 2018-03-25
+### Today's Progress
+Flashback today: Using `nice` to change priority and processing level of a process. Learned about that command on HP AIX Unix over 20 years ago. The output options of `ps` are quite handy to get information about the processes on your system.
+
+### Thoughts & Tweet
+Lots of repetition today given that the commands discussed are commonly used on a Linux system. Was `nice` to see that the instructor Andrew seems to like the `ps aux` output. There's lot of information available in the `/proc/` folder.
+
+https://twitter.com/JKirstaetter/status/977946586343817217  
+
+### Resources
+[LFCS: Linux Operation Essentials](https://www.pluralsight.com/courses/lfcs-linux-operation-essentials)  
+
+---- 
 ## Day 11: 2018-03-24
 ### Today's Progress
 Digging a bit deeper into the nuts & bolts of the shutdown and boot processes of Linux. Starting with `shutdown` to understand the different `runlevel` and their implications, and then to explore `grub2` and related tools to configure the boot process.
