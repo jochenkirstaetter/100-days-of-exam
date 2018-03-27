@@ -1,5 +1,18 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 13: 2018-03-26
+### Today's Progress
+Explored the various binaries in the `procps-ng` package. Whew, quite some interesting information that you get out your Linux system.
+
+### Thoughts & Tweet
+Most interestingly is that the different commands are literally reading the data from the files below the `/proc` folder and reshape them into a more human-readable and practical form.
+
+https://twitter.com/JKirstaetter/status/978681761633730560  
+
+### Resources
+[LFCS: Linux Operation Essentials](https://www.pluralsight.com/courses/lfcs-linux-operation-essentials)  
+
+---- 
 ## Day 12: 2018-03-25
 ### Today's Progress
 Flashback today: Using `nice` to change priority and processing level of a process. Learned about that command on HP AIX Unix over 20 years ago. The output options of `ps` are quite handy to get information about the processes on your system.
