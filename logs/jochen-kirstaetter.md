@@ -1,5 +1,18 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 14: 2018-03-27
+### Today's Progress
+Working with shared libraries on Linux is greater than the sum of its parts.
+
+### Thoughts & Tweet
+Almost everything in the architecture and way of working on a Linux system is broken down into small functional binaries, ie. libraries or components, which empowers you do more given an endless number of combinations. Shared libraries below `/usr/share/` are following exactly that concept.
+
+https://twitter.com/JKirstaetter/status/978688601927114752  
+
+### Resources
+[LFCS: Linux Operation Essentials](https://www.pluralsight.com/courses/lfcs-linux-operation-essentials)  
+
+---- 
 ## Day 13: 2018-03-26
 ### Today's Progress
 Explored the various binaries in the `procps-ng` package. Whew, quite some interesting information that you get out your Linux system.
