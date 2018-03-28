@@ -9,3 +9,4 @@ https://training.linuxfoundation.org/certification/lfcs
 ## Other resources
 [Linux Journey](https://linuxjourney.com/)  
 [GitHub: Linux Journey](https://github.com/cindyq/linuxjourney)  
+[Ebook: Introducing the Linux Foundation’s LFCS and LFCE Certification Preparation Guide](https://www.tecmint.com/linux-foundation-lfcs-lfce-certification-exam-book/)  
