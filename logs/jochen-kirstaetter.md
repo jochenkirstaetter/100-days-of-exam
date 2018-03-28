@@ -1,5 +1,19 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 15: 2018-03-28
+### Today's Progress
+Simplify your administrator life on Linux with scheduled tasks. Again, there are multiple tools available to get the job done.
+
+### Thoughts & Tweet
+Interesting lessons on commands like `cron`, `anacron`, and `at` to learn more about ways to setup and configure scheduled tasks on a Linux machine. The use of `anacron` is really interesting to achieve irregular timings on regular tasks. Could be used for real fun stuff. Today, I also checked out the corresponding man-pages of anacron(8) and cron(8) for a general overview and details on the scheduling options.
+
+https://twitter.com/JKirstaetter/status/978832047488864256  
+
+### Resources
+[LFCS: Linux Operation Essentials](https://www.pluralsight.com/courses/lfcs-linux-operation-essentials)  
+[The Official Red Hat Linux Customization Guide - Chapter 22. Automated Tasks](https://www.centos.org/docs//2/rhl-cg-en-7.2/autotasks-additional-resources.html)  
+
+---- 
 ## Day 14: 2018-03-27
 ### Today's Progress
 Working with shared libraries on Linux is greater than the sum of its parts.
