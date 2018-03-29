@@ -1,5 +1,18 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 16: 2018-03-29
+### Today's Progress
+While going through the chapters about log files, `journalctl`, `rsyslogd` and `logrotate` I might have discovered the Holy Grail of output parsing using `awk`.
+
+### Thoughts & Tweet
+The abilities using `awk` seem to be endless. Literally, the only frontiers are in your mind. Parsing the STDOUT of any command into the right shape and arrangement is really easy with `awk`. Also, querying log files for specific data is a breeze like this.
+
+https://twitter.com/JKirstaetter/status/979393265463042050
+
+### Resources
+[LFCS: Linux Operation Essentials](https://www.pluralsight.com/courses/lfcs-linux-operation-essentials)  
+
+---- 
 ## Day 15: 2018-03-28
 ### Today's Progress
 Simplify your administrator life on Linux with scheduled tasks. Again, there are multiple tools available to get the job done.
