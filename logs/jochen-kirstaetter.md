@@ -1,5 +1,20 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 17: 2018-03-30
+### Today's Progress
+Security Enhanced Linux (SELinux) - a Linux administrator's best friend to handle user's permission to objects on your system.
+
+### Thoughts & Tweet
+"SELinux defines the access and transition rights of every user, application, process, and file on the system. SELinux then governs the interactions of these entities using a security policy that specifies how strict or lenient a given Red Hat Enterprise Linux installation should be." That's quite some control options at your hand here...
+It's interesting to read that SELinux is partly developed by the U.S. National Security Agency (NSA). Who knew about that?
+
+https://twitter.com/JKirstaetter/status/979685469435777024  
+
+### Resources
+[SELinux Project](https://selinuxproject.org/)  
+[Red Hat - Introduction to SELinux](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/deployment_guide/ch-selinux)  
+
+---- 
 ## Day 16: 2018-03-29
 ### Today's Progress
 While going through the chapters about log files, `journalctl`, `rsyslogd` and `logrotate` I might have discovered the Holy Grail of output parsing using `awk`.
