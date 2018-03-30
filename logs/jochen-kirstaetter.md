@@ -11,7 +11,8 @@ It's interesting to read that SELinux is partly developed by the U.S. National S
 https://twitter.com/JKirstaetter/status/979685469435777024  
 
 ### Resources
-[SELinux Project](https://selinuxproject.org/)  
+[SELinux Project](https://github.com/SELinuxProject)  
+[old SELinux Project wiki](https://selinuxproject.org/)  
 [Red Hat - Introduction to SELinux](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/deployment_guide/ch-selinux)  
 
 ---- 
