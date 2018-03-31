@@ -1,5 +1,19 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 18: 2018-03-31
+### Today's Progress
+Instead of learning, it was all about teaching today. I talked about SQL Server on Linux (Ubuntu 16.04) in a VM on Azure. Used `systemctl` and `netstat` to show attendees the status of the `mssql-server` service.
+
+### Thoughts & Tweet
+Based on the learning experience of the previous two weeks I felt way more comfortable during the actual demo periods. While talking about a certain activity it was absolutely easy to elaborate more about the commands typed and the command line switches used to achieve a the expected outcome on the big screen. Being more fluent in various keyboard shortcuts (hotkeys) added value to my talk on SQL Server on Linux. Overall it was less of an obstacle talk, type and show at the same time. It seems that this constant learning experience starts to pay off.
+
+https://twitter.com/JKirstaetter/status/980132543012876288  
+
+### Resources
+[MSCC meeting: SQL Server on Linux](https://www.meetup.com/MauritiusSoftwareCraftsmanshipCommunity/events/247548681/)  
+[SQL Server on Linux](http://sqlserveronlinux.com)  
+
+---- 
 ## Day 17: 2018-03-30
 ### Today's Progress
 Security Enhanced Linux (SELinux) - a Linux administrator's best friend to handle user's permission to objects on your system.
