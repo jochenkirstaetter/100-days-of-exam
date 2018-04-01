@@ -1,5 +1,18 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 19: 2018-04-01
+### Today's Progress
+Despite being more familiar with `apt` and `dpkg` it was easy to understand how to work with `yum` and `rpm` on a CentOS machine.
+
+### Thoughts & Tweet
+Similarities between different commands on different Linux distributions are given; although I more used to Debian/Ubuntu-based systems it wasn't such an obstacle to get into the inerts of `rpm` and `yum` to complete same tasks, ie. install, upgrade, remove and pinning/keeping packages. Even setting up a local repository of CentOS and adding it to the repository list on a client didn't appear to be complicated.
+
+https://twitter.com/JKirstaetter/status/980473635704983552  
+
+### Resources
+[LFCS: Linux Operation Essentials](https://www.pluralsight.com/courses/lfcs-linux-operation-essentials)  
+
+---- 
 ## Day 18: 2018-03-31
 ### Today's Progress
 Instead of learning, it was all about teaching today. I talked about SQL Server on Linux (Ubuntu 16.04) in a VM on Azure. Used `systemctl` and `netstat` to show attendees the status of the `mssql-server` service.
