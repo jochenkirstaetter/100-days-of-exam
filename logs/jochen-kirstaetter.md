@@ -1,5 +1,20 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 20: 2018-04-02
+### Today's Progress
+Completed the second course on Pluralsight towards the LFCS exam, five more to conquer. Also reached 20% milestone in my #100DaysOfExam challenge today.
+
+### Thoughts & Tweet
+I need to pick some pace if I want to complete all materials before running out of days. Currently, I'm on approx. 35% of the LFCS material on Pluralsight, and I still have to cover the courses in the learning path "Implementing Microsoft Azure Infrastructure Solutions (70-533)". Luckily, that one is a bit shorter. The overall estimated amount of time is around 61 hours in total. By reaching day 60 I shall be through all the video material offered by Pluralsight. Doesn't sound too bad after all; but I know I'll be quite occupied with other tasks during those remaining 40 days...
+Furthermore, there are other great resources to explore and to manifest my knowledge on Linux and Azure in order to be 100% ready for both exams. Gonna be fun for sure.
+
+https://twitter.com/JKirstaetter/status/980740319124733953  
+
+### Resources
+[LFCS: Linux Operation Essentials](https://www.pluralsight.com/courses/lfcs-linux-operation-essentials)  
+[LFCS: Linux User and Group Management](https://app.pluralsight.com/library/courses/lfcs-linux-user-group-management)  
+
+---- 
 ## Day 19: 2018-04-01
 ### Today's Progress
 Despite being more familiar with `apt` and `dpkg` it was easy to understand how to work with `yum` and `rpm` on a CentOS machine.
