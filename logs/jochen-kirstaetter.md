@@ -1,5 +1,18 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 21: 2018-04-03
+### Today's Progress
+Started with the introduction into user & group management. Got to understand the difference between login and non-login accounts and the associated login scripts - `.bash_profile` and `.bashrc`.
+
+### Thoughts & Tweet
+The relationship between the personal and system-wide login scripts and their sequence of execution is kind of interesting to discover. Also, given that it's slightly different login and non-login (using a sub-set only) accounts. Today's learning session provided some clarification in that area.
+
+https://twitter.com/JKirstaetter/status/981230704422920192  
+
+### Resources
+[LFCS: Linux User and Group Management](https://app.pluralsight.com/library/courses/lfcs-linux-user-group-management)  
+
+---- 
 ## Day 20: 2018-04-02
 ### Today's Progress
 Completed the second course on Pluralsight towards the LFCS exam, five more to conquer. Also reached 20% milestone in my #100DaysOfExam challenge today.
