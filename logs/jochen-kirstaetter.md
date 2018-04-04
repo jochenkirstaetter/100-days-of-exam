@@ -1,5 +1,18 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 22: 2018-04-04
+### Today's Progress
+Mastering user accounts on Linux is done by a few commands, ie. `useradd`, `userdel` and `usermod`. One tool for one task...
+
+### Thoughts & Tweet
+It is interesting to note that there is a different handling of additional helper commands, ie. `adduser` and `deluser` depending on Linux distribution. On systems like CentOS or Red Hat those commands are simple symlinks to the original counter-part whereas on Debian-based distros including Ubuntu those commands are perl scripts with enhanced functionality.
+
+https://twitter.com/JKirstaetter/status/981568172783411200  
+
+### Resources
+[LFCS: Linux User and Group Management](https://app.pluralsight.com/library/courses/lfcs-linux-user-group-management)  
+
+---- 
 ## Day 21: 2018-04-03
 ### Today's Progress
 Started with the introduction into user & group management. Got to understand the difference between login and non-login accounts and the associated login scripts - `.bash_profile` and `.bashrc`.
