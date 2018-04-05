@@ -1,5 +1,18 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 23: 2018-04-05
+### Today's Progress
+More reflection on user and group management today. Learned a bit more about primary and secondary group assignments and interesting associations related to that.
+
+### Thoughts & Tweet
+There is set of helpful commands to create, manage and delete users as well as groups. Having the ability to define a default configuration and to assign different permissions to each object under Linux is useful for the majority of tasks and requirements. Surely, there are a few more scenarios where more granularity and details on permissions are needed, but for the main part the default user/group management is sufficient and robust enough to handle it.
+
+https://twitter.com/JKirstaetter/status/981982502234411008  
+
+### Resources
+[LFCS: Linux User and Group Management](https://app.pluralsight.com/library/courses/lfcs-linux-user-group-management)  
+
+---- 
 ## Day 22: 2018-04-04
 ### Today's Progress
 Mastering user accounts on Linux is done by a few commands, ie. `useradd`, `userdel` and `usermod`. One tool for one task...
