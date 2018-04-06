@@ -1,5 +1,18 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 24: 2018-04-06
+### Today's Progress
+Linux Pluggable Authentication Modules (PAM) provide dynamic authentication support for applications and services in a Linux system.
+
+### Thoughts & Tweet
+... not yet clear ...
+
+https://twitter.com/JKirstaetter/status/982248508815065089  
+
+### Resources
+[LFCS: Linux User and Group Management](https://app.pluralsight.com/library/courses/lfcs-linux-user-group-management)  
+
+---- 
 ## Day 23: 2018-04-05
 ### Today's Progress
 More reflection on user and group management today. Learned a bit more about primary and secondary group assignments and interesting associations related to that.
