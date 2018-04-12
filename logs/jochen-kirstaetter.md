@@ -1,5 +1,49 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 27: 2018-04-11
+### Today's Progress
+Another mechanism to authenticate users on Linux is using Kerberos. The importance here is to provide proper time synchronisation between machines on the network by populating a NTP server.
+
+### Thoughts & Tweet
+Fascinating to discover that proper time synchronisation is crucial when using Kerberos for user authnetication. One of the best ways under Linux is to set up and propagate your own NTP server on your network. This ensures that all system clocks are in sync and enables proper use of Kerberos.
+
+### Resources
+[LFCS: Linux User and Group Management](https://app.pluralsight.com/library/courses/lfcs-linux-user-group-management)  
+[LFCS: Linux Storage Management](https://app.pluralsight.com/library/courses/lfcs-linux-storage-management)
+
+---- 
+## Day 26: 2018-04-10
+### Today's Progress
+Another challenge explored: OpenLDAP. Starting with the initial setup and configuration of a local OpenLDAP tree and schema structure to learn more about LDAP-based authentication on Linux in the second stint.
+
+### Thoughts & Tweet
+This is another tough one to master. I think that setting up a fresh OpenLDAP installation helps to better understand the basic principles of operating and managing the resources in the long run. Although it is not really relevant for the exam curriculum it was interesting to know about it. Knowing how to enable user authentication using an existing OpenLDAP system will probably be covered in the exam though.
+
+### Resources
+[LFCS: Linux User and Group Management](https://app.pluralsight.com/library/courses/lfcs-linux-user-group-management)  
+
+---- 
+## Day X: 2018-04-09
+### Today's Progress
+Again, nothing done today.
+
+---- 
+## Day X: 2018-04-08
+### Today's Progress
+Nothing done today.
+
+---- 
+## Day 25: 2018-04-07
+### Today's Progress
+Did a replay on the PAM module. Too much information in short time which needed a repetition to stick properly.
+
+### Thoughts & Tweet
+After going through the material a second time and doing a bit more exercise in a live system it is now more clear what can done with PAM. The time restrictions on logins are quite useful to control access to a machine. Set up some limits on my children's laptop.
+
+### Resources
+[LFCS: Linux User and Group Management](https://app.pluralsight.com/library/courses/lfcs-linux-user-group-management)  
+
+---- 
 ## Day 24: 2018-04-06
 ### Today's Progress
 Linux Pluggable Authentication Modules (PAM) provide dynamic authentication support for applications and services in a Linux system.
