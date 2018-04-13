@@ -1,5 +1,18 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 28: 2018-04-12
+### Today's Progress
+Started a new chapter in my preparations for the Linux Foundation Certified System Administrator: It's all about storage management. Shall interesting to learn more about clusters soon.
+
+### Thoughts & Tweet
+Pretty much of an informed repetition of how to partition disks, to assign partition types and to format them accordingly.
+
+https://twitter.com/JKirstaetter/status/984701483886104576  
+
+### Resources
+[LFCS: Linux Storage Management](https://app.pluralsight.com/library/courses/lfcs-linux-storage-management)  
+
+---- 
 ## Day 27: 2018-04-11
 ### Today's Progress
 Another mechanism to authenticate users on Linux is using Kerberos. The importance here is to provide proper time synchronisation between machines on the network by populating a NTP server.
@@ -9,7 +22,7 @@ Fascinating to discover that proper time synchronisation is crucial when using K
 
 ### Resources
 [LFCS: Linux User and Group Management](https://app.pluralsight.com/library/courses/lfcs-linux-user-group-management)  
-[LFCS: Linux Storage Management](https://app.pluralsight.com/library/courses/lfcs-linux-storage-management)
+[LFCS: Linux Storage Management](https://app.pluralsight.com/library/courses/lfcs-linux-storage-management)  
 
 ---- 
 ## Day 26: 2018-04-10
@@ -39,6 +52,8 @@ Did a replay on the PAM module. Too much information in short time which needed 
 
 ### Thoughts & Tweet
 After going through the material a second time and doing a bit more exercise in a live system it is now more clear what can done with PAM. The time restrictions on logins are quite useful to control access to a machine. Set up some limits on my children's laptop.
+
+https://twitter.com/JKirstaetter/status/984308659214680064  
 
 ### Resources
 [LFCS: Linux User and Group Management](https://app.pluralsight.com/library/courses/lfcs-linux-user-group-management)  
