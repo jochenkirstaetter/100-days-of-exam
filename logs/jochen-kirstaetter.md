@@ -1,5 +1,18 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 30: 2018-04-14
+### Today's Progress
+Never looked into the actual differences between EXT4 and XFS. I'm using XFS most of the time.
+
+### Thoughts & Tweet
+Well, it's like deciding between chocolate and vanilla. It's all about personal flavour preference. 
+
+https://twitter.com/JKirstaetter/status/985221729319452672  
+
+### Resources
+[LFCS: Linux Storage Management](https://app.pluralsight.com/library/courses/lfcs-linux-storage-management)  
+
+---- 
 ## Day 29: 2018-04-13
 ### Today's Progress
 The information about fdisk and standard partitions was pretty basic compared to previously unknown GUID partitions and the gdisk partitioning tool.
