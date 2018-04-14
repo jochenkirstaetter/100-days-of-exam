@@ -1,8 +1,21 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 29: 2018-04-13
+### Today's Progress
+The information about fdisk and standard partitions was pretty basic compared to previously unknown GUID partitions and the gdisk partitioning tool.
+
+### Thoughts & Tweet
+Really interesting to go beyond MBR and the regular partition table. Apart from working with `fdisk` and `dd` it was totally new to learn about GUID partitions and the corresponding `gdisk` tool.
+
+https://twitter.com/JKirstaetter/status/985217948422881280  
+
+### Resources
+[LFCS: Linux Storage Management](https://app.pluralsight.com/library/courses/lfcs-linux-storage-management)  
+
+---- 
 ## Day 28: 2018-04-12
 ### Today's Progress
-Started a new chapter in my preparations for the Linux Foundation Certified System Administrator: It's all about storage management. Shall interesting to learn more about clusters soon.
+Started a new chapter in my preparations for the Linux Foundation Certified System Administrator: It's all about storage management. Shall be interesting to learn more about clusters soon.
 
 ### Thoughts & Tweet
 Pretty much of an informed repetition of how to partition disks, to assign partition types and to format them accordingly.
