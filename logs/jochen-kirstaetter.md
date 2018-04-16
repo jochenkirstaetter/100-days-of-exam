@@ -1,5 +1,18 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 31: 2018-04-15
+### Today's Progress
+Had a closer look into the manpage of `mkfs` regarding the various mount options, ie. general ones, specifics for Ext4 and specifics for XFS based on yesterday's learning module.
+
+### Thoughts & Tweet
+Today's takeaway is to look into the mount `noatime`, specifically when running Linux on a solid-state disk (SSD). Setting this option on your mountpoints is definitely going to help to increase the expected life-time of your drive.
+
+https://twitter.com/JKirstaetter/status/985699229128511488  
+
+### Resources
+[LFCS: Linux Storage Management](https://app.pluralsight.com/library/courses/lfcs-linux-storage-management)  
+
+---- 
 ## Day 30: 2018-04-14
 ### Today's Progress
 Never looked into the actual differences between EXT4 and XFS. I'm using XFS most of the time.
