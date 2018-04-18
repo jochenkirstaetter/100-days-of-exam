@@ -1,5 +1,31 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day 33: 2018-04-17
+### Today's Progress
+Access control lists (ACLs) are surely helpful on multi-user systems but hardly on a laptop.
+
+### Thoughts & Tweet
+While working on your personal machine it might not seem obvious why it is positive to have permission handling provided by Access Control Lists (ACLs). Actually, it's rather confusing. Nonetheless, this adds security and safety to your machine, ie. you do not need permissions to access the whole system all the time.
+
+https://twitter.com/JKirstaetter/status/986290122982211584  
+
+### Resources
+[LFCS: Linux Storage Management](https://app.pluralsight.com/library/courses/lfcs-linux-storage-management)  
+
+---- 
+## Day 32: 2018-04-16
+### Today's Progress
+There are more options than file systems one can configure partitions for. Among those are `swap` partitions to extend your machine's memory capacity and RAID configurations.
+
+### Thoughts & Tweet
+I'm wondering whether the original rule of thumb to configure at least twice as much space for swap on your hard drive(s) than physical memory still applies nowadays. Given a common size of 8GB RAM on recent laptops this seems to be way too much and a waste of otherwise usable storage capacity.
+
+https://twitter.com/JKirstaetter/status/985793668354207745  
+
+### Resources
+[LFCS: Linux Storage Management](https://app.pluralsight.com/library/courses/lfcs-linux-storage-management)  
+
+---- 
 ## Day 31: 2018-04-15
 ### Today's Progress
 Had a closer look into the manpage of `mkfs` regarding the various mount options, ie. general ones, specifics for Ext4 and specifics for XFS based on yesterday's learning module.
