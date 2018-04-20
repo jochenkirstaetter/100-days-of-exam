@@ -1,11 +1,30 @@
 # Log [#100DaysOfExam](https://www.100daysofexam.com/) - MCSA: Linux on Azure
 
+## Day X: 2018-04-19
+### Today's Progress
+Nothing done today.
+
+---- 
+## Day 34: 2018-04-18
+### Today's Progress
+With a little bit more overhead Logical Volumes give you so much more. Flexible handling and dynamic extension of disk space come handy with LVM.
+
+### Thoughts & Tweet
+Most probably it takes a bit of time to understand the concepts of LVM. As soon as you know about the `lvm` partition type, partition volumes `pv`, volume gropus `vg`, and finally logical volumes `lv` it falls nicely into place. It takes a bit of practice though to shift or extend volumes properly.
+
+https://twitter.com/JKirstaetter/status/987144805816811521  
+
+### Resources
+[LFCS: Linux Storage Management](https://app.pluralsight.com/library/courses/lfcs-linux-storage-management)  
+[How to extend a virtual disk and its logical volume(s) in CentOS](https://jochen.kirstaetter.name/extend-a-virtual-disk-and-its-logical-volume/)  
+---- 
 ## Day 33: 2018-04-17
 ### Today's Progress
 Access control lists (ACLs) are surely helpful on multi-user systems but hardly on a laptop.
 
 ### Thoughts & Tweet
 While working on your personal machine it might not seem obvious why it is positive to have permission handling provided by Access Control Lists (ACLs). Actually, it's rather confusing. Nonetheless, this adds security and safety to your machine, ie. you do not need permissions to access the whole system all the time.
+I shall explore the manpages of `getfacl` and `setfacl` to gain more knowledge on that.
 
 https://twitter.com/JKirstaetter/status/986290122982211584  
 
