@@ -6,7 +6,7 @@ No matter what we learn constantly and extend our knowledge about the almost eve
 
 ![A journey of a thousand miles begins with a single step](https://jochen.kirstaetter.name/content/images/2018/03/100DaysOfExam_A-journey-of-a-thousand-miles-begins-with-a-singl-step.jpg)
 
-This project is all about learning, more precisely the journey to prepare yourself to pass an exam, no matter the nature of the topic. You commit yourself to this 100-day challenge by focusing on a specific topic, by deep diving into it and by preparing yourself to take an exam at the end of term.
+This project is all about learning, more precisely the journey to prepare yourself to pass an exam, no matter the nature of the topic. You commit yourself to this 100-day challenge by focusing on a specific topic, by deep diving into it, and by preparing yourself to take an exam at the end of term.
 
 In the article [100 Days of Exam](https://jochen.kirstaetter.name/100-days-of-exam/) you will find some more background information about this personal growth challenge, and what got me started. Hopefully, it gets you started, too.
 
