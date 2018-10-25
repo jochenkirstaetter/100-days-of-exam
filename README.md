@@ -8,10 +8,13 @@ No matter what we learn constantly and extend our knowledge about the almost eve
 
 This project is all about learning, more precisely the journey to prepare yourself to pass an exam, no matter the nature of the topic. You commit yourself to this 100-day challenge by focusing on a specific topic, by deep diving into it and by preparing yourself to take an exam at the end of term.
 
+In the article [100 Days of Exam](https://jochen.kirstaetter.name/100-days-of-exam/) you will find some more background information about this personal growth challenge, and what got me started. Hopefully, it gets you started, too.
+
 ## Contents
 * [Rules](rules.md)
 * [Log Template](log.md)
-  * [Log of my challenge](logs/jochen-kirstaetter.md)
+  * [Log of Jochen Kirstätter](logs/jochen-kirstaetter.md)
+  * [Log of your challenge](#)
 * [FAQ](faq.md)
 * [Resources](resources.md)
 
