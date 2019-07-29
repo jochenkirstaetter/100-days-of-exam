@@ -8,5 +8,5 @@ https://training.linuxfoundation.org/certification/lfce
 [LinkedIn Learning: Scott Simpson](https://www.linkedin.com/learning/instructors/scott-simpson)  
 
 ## Other resources
-[Nills Franssens - I failed the LFCE exam](https://nillsf.wordpress.com/2018/11/17/i-failed-the-lfce-exam/)  
+[Nills Franssens - I failed the LFCE exam](https://blog.nillsf.com/index.php/2018/11/17/i-failed-the-lfce-exam/)  
 [LFCE: Installing Network Services and Configuring Automatic Startup at Boot – Part 1](https://www.tecmint.com/installing-network-services-and-configuring-services-at-system-boot/)  
