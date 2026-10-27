@@ -28,3 +28,4 @@
 - [ ] I have updated the documentation accordingly.
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] My changes generate no new warnings
+- [ ] All commits are signed off with `git commit -s` (`Signed-off-by:` DCO trailer present)
